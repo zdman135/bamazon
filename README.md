@@ -26,7 +26,7 @@ node bamazonCustomer.js
 
 ## Additional Notes:
 For a video tutorial of the application please, try the link below:
-[Youtube Link to Demo Video]()
+[Youtube Link to Demo Video](https://youtu.be/KY13WWNJSxc)
 
 ## Screenshots:
 
